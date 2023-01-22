@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nuketek/overlays/nuketek_overlay_01"
+	"$translucent" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$decal" 1
+	"$decalscale" 0.5
+}
